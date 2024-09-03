@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekts\\Unity\\RocketUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|D:\\Projekts\\Unity\\RocketUp\\assets\\source\\particle\\playparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\particle\\playparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|D:\\Projekts\\Unity\\RocketUp\\assets\\source\\audio\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\audio\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|D:\\Projekts\\Unity\\RocketUp\\assets\\source\\player\\objecthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\player\\objecthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|d:\\projekts\\unity\\rocketup\\assets\\source\\player\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF7208-6A7C-8EFA-8DFF-7285C6FC8680}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\player\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectHit.cs",
+              "DocumentMoniker": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Player\\ObjectHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Player\\ObjectHit.cs",
+              "ToolTip": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Player\\ObjectHit.cs",
+              "RelativeToolTip": "Assets\\Source\\Player\\ObjectHit.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwDsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:29:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Audio\\Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Audio\\Sound.cs",
+              "ToolTip": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Audio\\Sound.cs",
+              "RelativeToolTip": "Assets\\Source\\Audio\\Sound.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:05:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayParticle.cs",
+              "DocumentMoniker": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Particle\\PlayParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Particle\\PlayParticle.cs",
+              "ToolTip": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Particle\\PlayParticle.cs",
+              "RelativeToolTip": "Assets\\Source\\Particle\\PlayParticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:30:46.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Player\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Player\\Movement.cs",
+              "ToolTip": "D:\\Projekts\\Unity\\RocketUp\\Assets\\Source\\Player\\Movement.cs",
+              "RelativeToolTip": "Assets\\Source\\Player\\Movement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:30:28.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
